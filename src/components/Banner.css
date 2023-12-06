@@ -1,0 +1,22 @@
+.overview{
+    width: 50%;
+    margin: 30px;
+    line-height: 30px;
+}
+
+.banner{
+    margin: 20px;
+    padding: 20px;
+    height: 600px;
+    background-size: cover;
+    border: 4px solid;
+    border-radius: 15px;
+    border-color: rgba(171, 171, 161, 0.601);
+
+}
+
+.title{
+    margin-left: 30px;
+    margin-top: 400px;
+    
+}
